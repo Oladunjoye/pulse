@@ -14,7 +14,7 @@
     "./css": "./dist/styles.css"
   },
   "scripts": {
-    "build": "pnpm build:assets && tsup",
+    "build": "pnpm  tsup",
     "build:assets": "tsx scripts/build.ts",
     "test": "vitest run",
     "clean": "rm -rf dist"
