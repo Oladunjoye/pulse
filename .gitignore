@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+.turbo/
+.cache/
+*.tsbuildinfo
+.DS_Store
